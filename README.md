@@ -8,9 +8,7 @@
 
 I am a motivated Java software developer. I love programming.
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my love for making things that change the world.
-
-That's why I like to make things that make a difference.
+I'm a passionate and motivated Java developer with a strong foundation in programming. I'm eager to kickstart my career in software development.
 
 <img align="right" alt="GIF" src="https://github.com/nagaarjun-offcl/nagaarjun-offcl/blob/main/coding.gif?raw=true" width="408" height="318" />
 
